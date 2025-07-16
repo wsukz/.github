@@ -45,11 +45,9 @@ We believe in **open-source collaboration** and encourage public contributions a
 
 You can visit our GitHub Pages site for interactive content and more information:
 
-👉 [**wsukz.github.io**](https://wsukz.github.io) _(Coming soon!)_
+[**wsukz.github.io**](https://wsukz.github.io) 
 
 
-
-## 🤝 Get Involved
 
 If you're a:
 - 🎓 Student at Woosong University
@@ -60,7 +58,7 @@ If you're a:
 
 
 
-**📧 Contact:** [Department Website](https://www.endicott.ac.kr/page/index.jsp?code=endicott0205) | GitHub Issues | Email: [yergali@wsu.ac.kr] (yergali@wsu.ac.kr)
+**📧 Contact:** [Department Website](https://www.endicott.ac.kr/page/index.jsp?code=endicott0205) | GitHub: [**wsukz.github.io**](https://wsukz.github.io)  | Email: [yergali@wsu.ac.kr](yergali@wsu.ac.kr)
 
 
 
