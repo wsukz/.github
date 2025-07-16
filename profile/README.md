@@ -10,32 +10,32 @@ We are committed to open education, hands-on learning, and advancing knowledge t
 
 Explore some of the common subjects and areas covered by our department:
 
-### 🔰 Introduction to Computer Science
-Fundamental concepts in programming, algorithms, and data structures using Python or Java.
+### Introduction to Computer Science
+ - Fundamental concepts in programming, algorithms, and data structures using Python or Java.
 
-### 🧠 Artificial Intelligence
-Covers intelligent agents, search algorithms, logic systems, and foundational AI techniques.
+### Artificial Intelligence
+ - Covers intelligent agents, search algorithms, logic systems, and foundational AI techniques.
 
-### 🤖 Machine Learning
-Supervised, unsupervised, and reinforcement learning with practical projects using scikit-learn, TensorFlow, and PyTorch.
+### Machine Learning
+ - Supervised, unsupervised, and reinforcement learning with practical projects using scikit-learn, TensorFlow, and PyTorch.
 
-### 🧬 Deep Learning
-Neural networks, CNNs, RNNs, transformers, and advanced applications in image and language processing.
+### Deep Learning
+ - Neural networks, CNNs, RNNs, transformers, and advanced applications in image and language processing.
 
-### 📊 Big Data Analytics
-Scalable data processing with Hadoop, Apache Spark, and cloud-based tools for large-scale analysis.
+### Big Data Analytics
+ - Scalable data processing with Hadoop, Apache Spark, and cloud-based tools for large-scale analysis.
 
-### 💬 Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 Text mining, sentiment analysis, language modeling, and working with multilingual corpora.
 
-### 🖼️ Computer Vision
-Image classification, object detection, and face recognition using OpenCV and deep learning.
+### Computer Vision
+ - Image classification, object detection, and face recognition using OpenCV and deep learning.
 
-### 🛢️ Database Systems
-Design and implementation of relational and non-relational databases with SQL and MongoDB.
+### Database Systems
+ - Design and implementation of relational and non-relational databases with SQL and MongoDB.
 
-### ☁️ Cloud Computing & DevOps
-Cloud-native deployment of AI systems using Docker, Kubernetes, CI/CD, and MLOps tools.
+### Cloud Computing & DevOps
+ - Cloud-native deployment of AI systems using Docker, Kubernetes, CI/CD, and MLOps tools.
 
 
 
