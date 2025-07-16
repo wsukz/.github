@@ -47,9 +47,9 @@ You can visit our GitHub Pages site for interactive content and more information
 
 
 If you're a:
-- 🎓 Student at Woosong University
-- 👩‍🏫 Instructor or researcher
-- 🛠️ Developer or AI enthusiast
+- Student at Woosong University
+- Instructor or researcher
+- Developer or AI enthusiast
 
 ...we welcome your participation! Open issues, start discussions, or contribute to projects—let’s build the future of AI and Big Data together.
 
