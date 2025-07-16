@@ -43,10 +43,7 @@ Cloud-native deployment of AI systems using Docker, Kubernetes, CI/CD, and MLOps
 
 We believe in **open-source collaboration** and encourage public contributions and reuse of our materials under appropriate licenses.
 
-You can visit our GitHub Pages site for interactive content and more information:
-
-[**wsukz.github.io**](https://wsukz.github.io) 
-
+You can visit our GitHub Pages site for interactive content and more information: [**wsukz.github.io**](https://wsukz.github.io) 
 
 
 If you're a:
@@ -58,7 +55,7 @@ If you're a:
 
 
 
-**📧 Contact:** [Department Website](https://www.endicott.ac.kr/page/index.jsp?code=endicott0205) | GitHub: [**wsukz.github.io**](https://wsukz.github.io)  | Email: [yergali@wsu.ac.kr](yergali@wsu.ac.kr)
+**📧 Contact:** [Department Website](https://www.endicott.ac.kr/page/index.jsp?code=endicott0205)  | Email: [yergali@wsu.ac.kr](yergali@wsu.ac.kr)
 
 
 
